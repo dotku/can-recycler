@@ -2,12 +2,15 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import "./styles.css";
+import RecycleSpotsList from "./components/RecycleSpotsList";
 
 function App() {
   return (
     <div className="App">
       <h1>回收易拉罐</h1>
-      <p>回收匹配系统</p>
+      <p>一个类似 Uber 的回收匹配系统</p>
+      <h2>待回收</h2>
+      <RecycleSpotsList />
       <h2>背景</h2>
       <p>
         不少新移民生活在美国，由于语言问题，无法融入美国主流社会，被迫无奈以拾荒为生。
