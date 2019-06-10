@@ -15,3 +15,8 @@ With some government support, people can keep bare living in San Francisco.
 So this project actually can support maybe about 100 people in the City. 
 
 I might be wrong, but as the project goes, I could get more information.
+
+## Tech Stack
+- Firebase
+- React
+- GraphQL
