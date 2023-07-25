@@ -20,3 +20,9 @@ I might be wrong, but as the project goes, I could get more information.
 - Firebase
 - React
 - GraphQL
+
+## Other Recycle
+
+| Company | Buy Back | Selling |
+| --- | --- | --- |
+| ecoATM | Y | N |
