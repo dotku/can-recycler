@@ -23,6 +23,7 @@ I might be wrong, but as the project goes, I could get more information.
 
 ## Other Recycle
 
-| Company | Buy Back | Selling |
+| Organization | Buy Back | Selling |
 | --- | --- | --- |
 | ecoATM | Y | N |
+| Dublin Environmental & Sustainability | N | N |
